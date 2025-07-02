@@ -15,5 +15,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## For API Keys in .env.local file
 
-VITE_NEWS_API_KEY = YOUR_NEWS_API_KEY
+VITE_NEWS_API_KEY = YOUR_NEWS_API_KEY\n
 VITE_GEMINI_API_KEY = YOUR_GEMINI_API_KEY
